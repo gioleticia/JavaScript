@@ -1,0 +1,39 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(224, 225, 225);
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+.container{
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: rgb(241, 237, 233);
+    backdrop-filter: blur(15px) ;
+    padding: 20px;
+    border-radius: 10px;
+
+    box-shadow: 0 0 40px rgba(0,0,0,0,5);
+    width: 50%;
+    height: 400px
+    
+}
+button{
+    background-color: rgb(187, 181, 140);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background: gray;
+}
+
+.blabla{
+    width: 80%;
+    border-color: aliceblue;
+    border-radius: 10%;
+}
